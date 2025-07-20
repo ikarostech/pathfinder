@@ -1,3 +1,7 @@
+# Route Finder App
+
+This app displays the driving route from Tokyo Station to Nagoya Station using the Google Maps Embed API. To display the map, copy `.env.example` to `.env` and add your Google Maps API key.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -16,7 +20,8 @@ You may also see any lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
+Runs the test suite a single time without watch mode.
+
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
